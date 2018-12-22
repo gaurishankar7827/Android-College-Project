@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dtcstopdetail.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\dtcstopdetail.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customercaremetro.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\customercaremetro.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\utilitiesmainscreen.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\utilitiesmainscreen.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainscreenlayout.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\mainscreenlayout.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customercaredtc.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\customercaredtc.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\metrostationdetail.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\metrostationdetail.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contactdeveloper.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\contactdeveloper.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delhimajoroffices.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\delhimajoroffices.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gpsmapslayout.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\gpsmapslayout.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dtcservicescreen.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\dtcservicescreen.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\busroutedetail.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\busroutedetail.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapimage.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\mapimage.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\metroservicescreen.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\metroservicescreen.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delhitaxiservices.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\delhitaxiservices.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\metrolinedetail.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\metrolinedetail.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\metroplanroute.xml",
+        "source": "G:\\AllAndroidPrograms\\Delhi Route Planner Ver 1.0\\app\\src\\main\\res\\layout\\metroplanroute.xml"
+    }
+]
